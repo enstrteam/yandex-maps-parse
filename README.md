@@ -2,5 +2,5 @@
 Парсер организаций на Яндекс картах 
 
 ## Старт
-Запуск `python3 -m yandexparser
+Запуск `python3 -m yandexparser`
 
