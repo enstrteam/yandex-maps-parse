@@ -1,1 +1,1 @@
-# Yandex maps парсер
+# YANDEX Maps Parser
